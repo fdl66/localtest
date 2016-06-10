@@ -1,3 +1,5 @@
+//author:Fan Deliang
+//E-mail:fan0816fan@163.com
 #include<iostream>
 #include<cstdio>
 using namespace std;
